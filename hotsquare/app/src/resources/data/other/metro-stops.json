@@ -1,0 +1,611 @@
+[
+    {
+        "name": "Aeroporto",
+        "coordinates": [
+            41.23706488359933,
+            -8.669435612898607
+        ]
+    },
+    {
+        "name": "Aliados",
+        "coordinates": [
+            41.14867312915506,
+            -8.610965005271474
+        ]
+    },
+    {
+        "name": "Alto de Pêga",
+        "coordinates": [
+            41.36461077047684,
+            -8.745214272723304
+        ]
+    },
+    {
+        "name": "Araújo",
+        "coordinates": [
+            41.21690573328218,
+            -8.641002773232433
+        ]
+    },
+    {
+        "name": "Árvore",
+        "coordinates": [
+            41.34042092829504,
+            -8.725524420045318
+        ]
+    },
+    {
+        "name": "Azurara",
+        "coordinates": [
+            41.34596790857,
+            -8.728070584763243
+        ]
+    },
+    {
+        "name": "Baguim",
+        "coordinates": [
+            41.18566293448959,
+            -8.545745113949982
+        ]
+    },
+    {
+        "name": "Bolhão",
+        "coordinates": [
+            41.14980091871157,
+            -8.605919024342683
+        ]
+    },
+    {
+        "name": "Botica",
+        "coordinates": [
+            41.237537689578616,
+            -8.665224113139148
+        ]
+    },
+    {
+        "name": "Brito Capelo",
+        "coordinates": [
+            41.18381109352008,
+            -8.691598602006982
+        ]
+    },
+    {
+        "name": "Câmara Gaia",
+        "coordinates": [
+            41.12971963353096,
+            -8.606123685443624
+        ]
+    },
+    {
+        "name": "Câmara Matosinhos",
+        "coordinates": [
+            41.180732473370526,
+            -8.681384636825047
+        ]
+    },
+    {
+        "name": "Campainha",
+        "coordinates": [
+            41.18348748993433,
+            -8.553955550919062
+        ]
+    },
+    {
+        "name": "Camapanhã",
+        "coordinates": [
+            41.15063285599376,
+            -8.58600177419132
+        ]
+    },
+    {
+        "name": "Campo 24 Agosto",
+        "coordinates": [
+            41.14871042304492,
+            -8.598598449713633
+        ]
+    },
+    {
+        "name": "Cândido dos Reis",
+        "coordinates": [
+            41.200706470525326,
+            -8.64960049816474
+        ]
+    },
+    {
+        "name": "Carreira",
+        "coordinates": [
+            41.17987542781834,
+            -8.543647969424743
+        ]
+    },
+    {
+        "name": "Carolina Michaelis",
+        "coordinates": [
+            41.15857685765433,
+            -8.622149747894595
+        ]
+    },
+    {
+        "name": "Casa da Música",
+        "coordinates": [
+            41.16086410154968,
+            -8.628205497865341
+        ]
+    },
+    {
+        "name": "Castêlo da Maia",
+        "coordinates": [
+            41.262755930661754,
+            -8.616948578855633
+        ]
+    },
+    {
+        "name": "Combatentes",
+        "coordinates": [
+            41.16532696445921,
+            -8.598471918990807
+        ]
+    },
+    {
+        "name": "Contumil",
+        "coordinates": [
+            41.17415039633419,
+            -8.57357260778971
+        ]
+    },
+    {
+        "name": "Crestins",
+        "coordinates": [
+            41.23296807322518,
+            -8.656611983702991
+        ]
+    },
+    {
+        "name": "Custió",
+        "coordinates": [
+            41.222359597096165,
+            -8.639021109718307
+        ]
+    },
+    {
+        "name": "Custóias",
+        "coordinates": [
+            41.200306638352814,
+            -8.655645096425658
+        ]
+    },
+    {
+        "name": "D. João II",
+        "coordinates": [
+            41.11970369144573,
+            -8.606304465542113
+        ]
+    },
+    {
+        "name": "Espaço Natureza",
+        "coordinates": [
+            41.32123554770632,
+            -8.718728275440817
+        ]
+    },
+    {
+        "name": "Esposade",
+        "coordinates": [
+            41.21606380018322,
+            -8.654606925795129
+        ]
+    },
+    {
+        "name": "Estádio do Dragão",
+        "coordinates": [
+            41.16069750409392,
+            -8.582316704637927
+        ]
+    },
+    {
+        "name": "Estádio do Mar",
+        "coordinates": [
+            41.18584476913551,
+            -8.66127899196449
+        ]
+    },
+    {
+        "name": "Fânzeres",
+        "coordinates": [
+            41.171303480379756,
+            -8.543137014766838
+        ]
+    },
+    {
+        "name": "Faria Guimarães",
+        "coordinates": [
+            41.1572220238093,
+            -8.609132302885593
+        ]
+    },
+    {
+        "name": "Fonte do Cuco",
+        "coordinates": [
+            41.19418413387192,
+            -8.655751432681699
+        ]
+    },
+    {
+        "name": "Fórum Maia",
+        "coordinates": [
+            41.23480768656917,
+            -8.624097062077087
+        ]
+    },
+    {
+        "name": "Francos",
+        "coordinates": [
+            41.16554507861329,
+            -8.636387848942029
+        ]
+    },
+    {
+        "name": "Galiza",
+        "coordinates": [
+            41.152360334198946,
+            -8.626690491355642
+        ]
+    },
+    {
+        "name": "General Torres",
+        "coordinates": [
+            41.13386233430555,
+            -8.60745320111652
+        ]
+    },
+    {
+        "name": "Heroísmo",
+        "coordinates": [
+            41.14667911200606,
+            -8.593131059032014
+        ]
+    },
+    {
+        "name": "Hospital Pedro Hispano",
+        "coordinates": [
+            41.1804339329279,
+            -8.666609095112586
+        ]
+    },
+    {
+        "name": "Hospital Santo António",
+        "coordinates": [
+            41.14833717614919,
+            -8.618638710552053
+        ]
+    },
+    {
+        "name": "Hospital São João",
+        "coordinates": [
+            41.18321366296025,
+            -8.602184535874654
+        ]
+    },
+    {
+        "name": "Hospital Santos Silva",
+        "coordinates": [
+            41.106047597580044,
+            -8.591395125914367
+        ]
+    },
+    {
+        "name": "IPO",
+        "coordinates": [
+            41.18124542136571,
+            -8.604610303978717
+        ]
+    },
+    {
+        "name": "ISMAI",
+        "coordinates": [
+            41.26891113710809,
+            -8.615404951150389
+        ]
+    },
+    {
+        "name": "Jardim do Morro",
+        "coordinates": [
+            41.137640257497424,
+            -8.608815498876236
+        ]
+    },
+    {
+        "name": "João de Deus",
+        "coordinates": [
+            41.12606545972684,
+            -8.605652529034533
+        ]
+    },
+    {
+        "name": "Lapa",
+        "coordinates": [
+            41.15703673504794,
+            -8.616843371750505
+        ]
+    },
+    {
+        "name": "Levada",
+        "coordinates": [
+            41.175735465828964,
+            -8.562094992963782
+        ]
+    },
+    {
+        "name": "Lidador",
+        "coordinates": [
+            41.25505341221275,
+            -8.668004737868026
+        ]
+    },
+    {
+        "name": "Mandim",
+        "coordinates": [
+            41.25357252449626,
+            -8.6283142914511
+        ]
+    },
+    {
+        "name": "Manuel Leão",
+        "coordinates": [
+            41.110563124706744,
+            -8.60002374796984
+        ]
+    },
+    {
+        "name": "Marquês",
+        "coordinates": [
+            41.16113493863348,
+            -8.604292258622738
+        ]
+    },
+    {
+        "name": "Matosinhos Sul",
+        "coordinates": [
+            41.180154049929065,
+            -8.688549287146797
+        ]
+    },
+    {
+        "name": "Mercado",
+        "coordinates": [
+            41.18749047539391,
+            -8.693389426201469
+        ]
+    },
+    {
+        "name": "Mindelo",
+        "coordinates": [
+            41.31504387016509,
+            -8.714240560129992
+        ]
+    },
+    {
+        "name": "Modivas Centro",
+        "coordinates": [
+            41.29368377691156,
+            -8.699193042690295
+        ]
+    },
+    {
+        "name": "Modivas Sul",
+        "coordinates": [
+            41.2853089943091,
+            -8.69370975619627
+        ]
+    },
+    {
+        "name": "Nasoni",
+        "coordinates": [
+            41.1708512582895,
+            -8.577282851421877
+        ]
+    },
+    {
+        "name": "Nau Vitória",
+        "coordinates": [
+            41.17415039633419,
+            -8.57357260778971
+        ]
+    },
+    {
+        "name": "Parque Maia",
+        "coordinates": [
+            41.22901556755116,
+            -8.626908148709134
+        ]
+    },
+    {
+        "name": "Parque Real",
+        "coordinates": [
+            41.17903450591191,
+            -8.673575415942391
+        ]
+    },
+    {
+        "name": "Pedras Rubras",
+        "coordinates": [
+            41.24619122389683,
+            -8.661807213507046
+        ]
+    },
+    {
+        "name": "Pias",
+        "coordinates": [
+            41.20825265618916,
+            -8.647180868281321
+        ]
+    },
+    {
+        "name": "Polo Universitário",
+        "coordinates": [
+            41.17425919069293,
+            -8.603598383823698
+        ]
+    },
+    {
+        "name": "Portas Fronhas",
+        "coordinates": [
+            41.36893817214592,
+            -8.749609459432147
+        ]
+    },
+    {
+        "name": "Póvoa de Varzim",
+        "coordinates": [
+            41.3781332313482,
+            -8.758115865389009
+        ]
+    },
+    {
+        "name": "Ramalde",
+        "coordinates": [
+            41.17290893568507,
+            -8.64173473177718
+        ]
+    },
+    {
+        "name": "Rio Tinto",
+        "coordinates": [
+            41.1794586690794,
+            -8.5603212868977
+        ]
+    },
+    {
+        "name": "Salgueiros",
+        "coordinates": [
+            41.16969324807896,
+            -8.598762834749426
+        ]
+    },
+    {
+        "name": "Santa Clara",
+        "coordinates": [
+            41.353991080518824,
+            -8.735812002768812
+        ]
+    },
+    {
+        "name": "Santo Ovídio",
+        "coordinates": [
+            41.11582278208899,
+            -8.606593164401858
+        ]
+    },
+    {
+        "name": "São Bento",
+        "coordinates": [
+            41.145246398871116,
+            -8.611038540885627
+        ]
+    },
+    {
+        "name": "São Brás",
+        "coordinates": [
+            41.37342187573661,
+            -8.75410570259955
+        ]
+    },
+    {
+        "name": "Senhor de Matosinhos",
+        "coordinates": [
+            41.18834479761434,
+            -8.685103313427044
+        ]
+    },
+    {
+        "name": "Senhora da Hora",
+        "coordinates": [
+            41.188141888189705,
+            -8.654413201589627
+        ]
+    },
+    {
+        "name": "Sete Bicas",
+        "coordinates": [
+            41.18241173871756,
+            -8.652155838539235
+        ]
+    },
+    {
+        "name": "Trindade",
+        "coordinates": [
+            41.15230482108219,
+            -8.609324391381545
+        ]
+    },
+    {
+        "name": "Varziela",
+        "coordinates": [
+            41.334272775858246,
+            -8.720631424550524
+        ]
+    },
+    {
+        "name": "Vasco da Gama",
+        "coordinates": [
+            41.19022676416069,
+            -8.661039847150384
+        ]
+    },
+    {
+        "name": "VC Fashion Outlet/Modivas",
+        "coordinates": [
+            41.300480957659104,
+            -8.703994494814962
+        ]
+    },
+    {
+        "name": "Venda Nova",
+        "coordinates": [
+            41.17524810492792,
+            -8.542076058766689
+        ]
+    },
+    {
+        "name": "Verdes",
+        "coordinates": [
+            41.23821386561817,
+            -8.65823248541477
+        ]
+    },
+    {
+        "name": "Vila D'Este",
+        "coordinates": [
+            41.09858171785473,
+            -8.5884173952928
+        ]
+    },
+    {
+        "name": "Via Rápida/Viso",
+        "coordinates": [
+            41.17722319206451,
+            -8.646413254256343
+        ]
+    },
+    {
+        "name": "Vila do Conde",
+        "coordinates": [
+            41.359068687947236,
+            -8.740004445712344
+        ]
+    },
+    {
+        "name": "Vilar do Pinheiro",
+        "coordinates": [
+            41.27030817767639,
+            -8.679569399297534
+        ]
+    },
+    {
+        "name": "Zona Industrial",
+        "coordinates": [
+            41.244014278532646,
+            -8.628711053022084
+        ]
+    }
+]

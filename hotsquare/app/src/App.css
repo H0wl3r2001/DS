@@ -1,0 +1,108 @@
+body {
+  font-family: var(--font-roboto);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+#root:has(#listing-details),
+#root:has(#profile-screen) {
+  background-color: rgb(244, 244, 244);
+}
+
+.navbar-brand.hotsquare-navbrand {
+  padding: 0.5rem 1.2rem;
+  border-radius: 0.75rem;
+  background-color: rgb(16, 178, 169);
+  color: rgb(255, 255, 255);
+}
+
+.searchbar {
+  flex-direction: column !important;
+  align-items: flex-start !important;
+}
+
+div.border-custom {
+  border-color: rgb(203, 231, 219) !important; 
+}
+
+span.badge-custom {
+  color: #000000;
+  background-color: rgb(203, 231, 219) !important;
+}
+
+.btn-add-custom {
+  background-color: rgba(16, 178, 169, 0.3);
+  color: rgb(103, 103, 103);
+  border: none;
+  border-radius: 2rem;
+  padding: 0.5rem 1rem;
+}
+
+.btn-add-custom:hover {
+  background-color: rgba(16, 178, 169, 0.6);
+  color: rgb(0, 0, 0);
+}
+
+.listing-card {
+  transition: transform .5s;
+}
+
+.listing-card:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.cluster-marker {
+  color: #fff;
+  background: #1978c8;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cluster-marker-bus {
+  color: #fff;
+  background: #c8bc19;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cluster-marker-metro {
+  color: #fff;
+  background: #19c845;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cluster-marker-gym {
+  color: #fff;
+  background: #c83319;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.map-listings{
+  position: absolute;
+  width: 50%;
+  height: 70%;
+}
+
+.view-type{
+  display: flex;
+  position: fixed;
+  width: 100%;
+  justify-content: center;
+  bottom: 5vh;
+  transform: translateX(-8%);
+}
+

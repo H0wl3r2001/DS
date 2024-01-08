@@ -1,0 +1,49 @@
+version: "3"
+services:
+  react-app:
+    image: react-app
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
+    restart: always
+    stdin_open: true
+    ports: 
+      - "3000:3000"
+    networks:
+      - app-listings
+    volumes:
+      - ./app/:/app
+      - /app/node_modules
+
+  api-server:
+    image: api-server
+    restart: always
+    stdin_open: true
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
+    ports:
+      - "4000:4000"
+    networks:
+      - app-listings
+    volumes:
+      - ./server/:/server
+      - /server/node_modules
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo:4.4-bionic
+    ports:
+      - "27017:27017"
+    networks:
+      - app-listings
+    volumes:
+      - mongo-data:/data/db
+
+networks:
+  app-listings:
+    driver: bridge
+volumes:
+  mongo-data:
+    driver: local
